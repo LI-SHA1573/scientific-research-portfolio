@@ -94,3 +94,8 @@ The demo script includes:
 Code:
 
 `code/fft_analysis_demo.m`
+## Conclusion
+
+This project demonstrates a vibration-based analysis workflow for hydroturbine blade fault diagnosis.
+
+FFT-based frequency analysis was applied to extract dominant vibration characteristics, providing potential features for further fault classification and condition monitoring.
