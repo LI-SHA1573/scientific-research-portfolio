@@ -63,18 +63,20 @@ Fast Fourier Transform (FFT) was applied to extract dominant frequency component
 
 ### Time-domain and FFT Analysis
 
+The vibration signal was first analyzed in the time domain and transformed into the frequency domain using Fast Fourier Transform (FFT).
+
 ![Time-frequency analysis](figures/vibration_time_frequency_analysis.png)
 
 
-### Zoomed FFT Spectrum
+### Detailed Frequency Characteristics
 
-The dominant frequency components were further investigated in the low-frequency range.
+The low-frequency spectrum was further investigated to identify dominant vibration components.
 
 ![FFT spectrum](figures/fft_zoomed_spectrum.png)
 
 
-### Dominant Frequency Extraction
+### Dominant Frequency Components
 
-Peak detection was performed to identify major frequency components.
+Peak detection was used to extract representative frequency components from the vibration signal.
 
 ![Dominant frequencies](figures/dominant_frequency_components.png)
