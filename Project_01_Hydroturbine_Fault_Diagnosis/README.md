@@ -16,6 +16,7 @@ Early fault detection is important for improving equipment reliability and opera
 
 
 ## Experimental Setup
+![Experimental Setup](figures/hydroturbine_experimental_setup.png)
 
 The research uses vibration signals collected from a hydraulic turbine blade experimental platform.
 
