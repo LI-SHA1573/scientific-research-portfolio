@@ -80,3 +80,17 @@ The low-frequency spectrum was further investigated to identify dominant vibrati
 Peak detection was used to extract representative frequency components from the vibration signal.
 
 ![Dominant frequencies](figures/dominant_frequency_components.png)
+## Code
+
+MATLAB implementation for vibration signal preprocessing and FFT-based frequency analysis.
+
+The demo script includes:
+
+- Signal preprocessing
+- FFT calculation
+- Frequency spectrum visualization
+- Dominant frequency extraction
+
+Code:
+
+`code/fft_analysis_demo.m`
