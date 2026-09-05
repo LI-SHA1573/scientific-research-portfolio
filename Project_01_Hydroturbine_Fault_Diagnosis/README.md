@@ -22,7 +22,7 @@ The dataset includes:
 
 - Normal operating conditions
 - Fault conditions
-
+![Experimental Setup](figures/hydroturbine_experimental_setup.png)
 ## Methodology
 
 The analysis workflow includes:
