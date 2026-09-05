@@ -55,3 +55,26 @@ The analysis workflow includes:
 ## Project Status
 
 Research project in progress.
+## Signal Processing Results
+
+Vibration signals were analyzed using time-domain and frequency-domain methods.
+
+Fast Fourier Transform (FFT) was applied to extract dominant frequency components and characterize vibration behavior.
+
+### Time-domain and FFT Analysis
+
+![Time-frequency analysis](figures/vibration_time_frequency_analysis.png)
+
+
+### Zoomed FFT Spectrum
+
+The dominant frequency components were further investigated in the low-frequency range.
+
+![FFT spectrum](figures/fft_zoomed_spectrum.png)
+
+
+### Dominant Frequency Extraction
+
+Peak detection was performed to identify major frequency components.
+
+![Dominant frequencies](figures/dominant_frequency_components.png)
